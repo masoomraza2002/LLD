@@ -18,7 +18,7 @@ class Main{
         }else {
             System.out.println("Invalid Factory Choice!");
             sc.close();
-            return; // ✅ EXIT before using factory
+            return; 
         }
 
         System.out.println("Choose Burger Type:");
